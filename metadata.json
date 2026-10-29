@@ -1,0 +1,6 @@
+{
+  "name": "VCRS Visualizer",
+  "description": "Interactive 3D Vapor Compression Refrigeration Cycle visualizer for mechanical engineering thermodynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
